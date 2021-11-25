@@ -1,9 +1,9 @@
 # test_cricket_analysis
 Data source: https://stats.espncricinfo.com/ci/content/records/93276.html
-# Description of the columns:
-'Player'= Player name, 
-'Span' = Career period,
-'Mat'= Total no. of match played,
+# Description of the columns:  
+'Player'= Player name,   
+'Span' = Career period,  
+'Mat'= Total no. of match played,  
 'Inns'= Total no. of innings played, 
 'Balls'= No. of bowl bowled, 
 'Runs'= Total runs given, 
